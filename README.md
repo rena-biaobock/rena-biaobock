@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I'm Renã 😁 </h2>
+<h2 align="center">👋 Hi there! I'm Renã 😁</h2>
 
 <h3> 🌱 I’m currently learning </h3>
 

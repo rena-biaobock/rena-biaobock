@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 About Me</h3>
 
-Economics graduate with five years of experience in the export sector at one of the largest steel manufacturers in Latin America, serving the conduit, structural, and oil & gas industries under the ArcelorMittal Group. I bring a strong foundation in data analysis, international trade, and strategic operations, including client portfolio management and project management — now combined with hands-on experience in full-stack development.
+Economics graduate with five years of experience in the export sector at one of the largest steel manufacturers in Latin America, under the ArcelorMittal Group. I bring a strong foundation in data analysis, international trade, client portfolio management and project management — now combined with one year hands-on experience in full-stack development.
 
 I'm passionate about building efficient and scalable solutions to improve workflows, increase productivity and enhance data visualization to support strategic decision-making.
 

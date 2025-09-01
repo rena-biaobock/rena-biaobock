@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Renã 😁</h1>
+<h1 align="center">👋 Hi there! I'm Renã.</h1>
 
 <h3>👨‍💻 About Me</h3>
 
@@ -23,7 +23,7 @@ I'm passionate about building efficient and scalable solutions to improve workfl
 <hr>
 
 <h3>🛠️ Technologies and Tools</h3>
-
+<br>
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" />&nbsp;

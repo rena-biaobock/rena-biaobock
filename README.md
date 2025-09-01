@@ -11,7 +11,7 @@ I'm passionate about building efficient and scalable solutions to improve workfl
 <h3>📌 Current work:</h3>
 
 <div style="display: flex">
-  - Migrating an obsolete Excel control system to a modern JavaScript web interface.&nbsp;
+  - Migrating an obsolete Excel control system to a modern web dashboard.&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="15" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="15" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  height="15" />&nbsp;

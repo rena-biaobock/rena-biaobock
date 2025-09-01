@@ -24,7 +24,6 @@ I'm passionate about building efficient and scalable solutions to improve workfl
 
 <h3>🛠️ Technologies and Tools</h3>
 
-<h4>Languages | Libraries | Frameworks</h4>
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" />&nbsp;
@@ -36,14 +35,12 @@ I'm passionate about building efficient and scalable solutions to improve workfl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" />&nbsp;
 </div>
-
-<h4>Database & Cloud</h4>
+<br>
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" />&nbsp;
 </div>
-
-<h4>Dev & Tools</h4>
+<br>
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="30" />&nbsp;
 </div>

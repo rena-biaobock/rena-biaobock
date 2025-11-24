@@ -50,5 +50,3 @@ I'm passionate about building efficient and scalable solutions to improve workfl
 <h3>📩 Contact</h3>
 
 📧 Email: rena.biaobock.costa@gmail.com
-
-

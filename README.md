@@ -6,7 +6,7 @@ Economics graduate with five years of experience in the export sector at one of 
 
 <hr>
 
-<h3>📌 Current work:</h3>
+<h3>📌 Current work</h3>
 
 <div style="display: flex">
   - Migrating an obsolete Excel control system to a modern web dashboard.&nbsp;

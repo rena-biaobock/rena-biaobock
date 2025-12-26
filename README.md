@@ -4,7 +4,7 @@
 
 Full-stack Software Developer AI-focused
 
-Economics graduate with five years of experience in the export sector at one of the largest steel manufacturers in Latin America. I bring a strong foundation in data analysis, international trade, client portfolio management, and project management — now combined with one year of hands-on experience in full-stack development.
+Economics graduate with five years of experience in the export sector at one of the largest steel manufacturers in Latin America. I bring a strong foundation in data analysis, international trade, client portfolio management and project management — now combined with one year of hands-on experience in full-stack development.
 
 <hr>
 

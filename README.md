@@ -49,4 +49,4 @@ Economics graduate with five years of experience in the export sector at one of 
 
 <h3>📩 Contact</h3>
 
-📧 Email: rena.biaobock.costa@gmail.com
+📧 Email: rena.biaobock.costa@gmail.com;
